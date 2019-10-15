@@ -6,9 +6,9 @@ To-do:
 
 Add the magnifying glass icon.
 
-Finish the Navbar and Footer.
+Finish the Navbar and Footer. - Done!
 
-Touchups.
+Touchups. - Done!
 
 Personal Notes:
 
