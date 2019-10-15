@@ -10,12 +10,35 @@
 
 .footer {
     position: fixed;
-    bottom: 10px;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    background: #f2f2f2;
+    border-top: 1px solid #cacaca;
+    line-height: 40px;
 }
 
 .navbar {
-    position: fixed;
-    top: 0px;
+    height: 20px;
+    padding-top: 13px;
+}
+
+.leftside {
+    float: left;
+}
+
+.rightside {
+    float: right;
+    padding-right: 10px;
+}
+
+.bottomleft {
+    float: left;
+}
+
+.bottomright {
+    float: right;
+    padding-right: 10px;
 }
 
 body {
@@ -23,18 +46,28 @@ body {
     padding: 0;
 }
 
-li  {
-    display: inline;
+ul {
     list-style-type: none;
-    text-underline-position: 0;
+    margin: 0;
+    padding: 0;
+}
+
+li a  {
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.65;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 13px;
     
 }
 
 img {   
     display: block;
     margin: 0 auto;
-    min-width: 450px;
-    width: 30%;
+    min-width: 300px;
+    width: 300px;
 }
 
 .submit{
