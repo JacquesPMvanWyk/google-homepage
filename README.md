@@ -2,13 +2,7 @@ One of my first projects as part of The Odin Project's web development curriculu
 
 A faithful recreation of the Google Homepage, still has some work to be done.
 
-To-do:
-
-Add the magnifying glass icon.
-
-Finish the Navbar and Footer. - Done!
-
-Touchups. - Done!
+21/10/2019: Completed this project today, just did some touchups to the code.
 
 Personal Notes:
 
